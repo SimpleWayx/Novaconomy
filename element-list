@@ -1,7 +1,6 @@
 us.teaminceptus.novaconomy
 us.teaminceptus.novaconomy.api
 us.teaminceptus.novaconomy.api.bank
-us.teaminceptus.novaconomy.api.bounty
 us.teaminceptus.novaconomy.api.business
 us.teaminceptus.novaconomy.api.economy
 us.teaminceptus.novaconomy.api.events
@@ -9,5 +8,6 @@ us.teaminceptus.novaconomy.api.events.business
 us.teaminceptus.novaconomy.api.events.player
 us.teaminceptus.novaconomy.api.events.player.economy
 us.teaminceptus.novaconomy.api.events.settings
+us.teaminceptus.novaconomy.api.player
 us.teaminceptus.novaconomy.api.settings
 us.teaminceptus.novaconomy.api.util
